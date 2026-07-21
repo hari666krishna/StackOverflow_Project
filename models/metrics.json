@@ -1,0 +1,7508 @@
+{
+  "difficulty": null,
+  "tags": {
+    "per_tag": {
+      ".htaccess": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      ".net": {
+        "precision": 1.0,
+        "recall": 0.007407407407407408,
+        "f1": 0.014705882352941176
+      },
+      ".net-core": {
+        "precision": 0.5,
+        "recall": 0.023809523809523808,
+        "f1": 0.045454545454545456
+      },
+      ".net-framework-version": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      ".net-standard": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "2d": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "3d": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "abap": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "abstract": {
+        "precision": 0.5,
+        "recall": 0.3333333333333333,
+        "f1": 0.4
+      },
+      "abstract-class": {
+        "precision": 0.4,
+        "recall": 0.2857142857142857,
+        "f1": 0.3333333333333333
+      },
+      "accessibility": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "actionscript-3": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "active-directory": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "activerecord": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "adapter": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "adb": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "add": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "admob": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ads": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ag-grid": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "aggregate": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "airflow": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1": 0.6666666666666666
+      },
+      "ajax": {
+        "precision": 0.7407407407407407,
+        "recall": 0.3076923076923077,
+        "f1": 0.43478260869565216
+      },
+      "akka": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "alamofire": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "alarmmanager": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "alert": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "algorithm": {
+        "precision": 0.7894736842105263,
+        "recall": 0.17647058823529413,
+        "f1": 0.28846153846153844
+      },
+      "alias": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "alignment": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "alpine": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "amazon-cloudformation": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "amazon-cognito": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "amazon-dynamodb": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "amazon-ec2": {
+        "precision": 0.6428571428571429,
+        "recall": 0.3,
+        "f1": 0.4090909090909091
+      },
+      "amazon-ecs": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "amazon-elastic-beanstalk": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "amazon-iam": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "amazon-rds": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "amazon-s3": {
+        "precision": 0.9090909090909091,
+        "recall": 0.38461538461538464,
+        "f1": 0.5405405405405406
+      },
+      "amazon-vpc": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "amazon-web-services": {
+        "precision": 0.7236842105263158,
+        "recall": 0.4661016949152542,
+        "f1": 0.5670103092783505
+      },
+      "anaconda": {
+        "precision": 0.8333333333333334,
+        "recall": 0.4166666666666667,
+        "f1": 0.5555555555555556
+      },
+      "android": {
+        "precision": 0.9068627450980392,
+        "recall": 0.5849802371541502,
+        "f1": 0.7111965401249399
+      },
+      "android-6.0-marshmallow": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-7.0-nougat": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-8.0-oreo": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-actionbar": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-activity": {
+        "precision": 0.2857142857142857,
+        "recall": 0.125,
+        "f1": 0.17391304347826086
+      },
+      "android-adapter": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-alertdialog": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-architecture-components": {
+        "precision": 1.0,
+        "recall": 0.1,
+        "f1": 0.18181818181818182
+      },
+      "android-architecture-navigation": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-asynctask": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-cardview": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-constraintlayout": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-databinding": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-drawable": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-edittext": {
+        "precision": 0.5,
+        "recall": 0.06666666666666667,
+        "f1": 0.11764705882352941
+      },
+      "android-emulator": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-espresso": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-fragments": {
+        "precision": 0.5555555555555556,
+        "recall": 0.16129032258064516,
+        "f1": 0.25
+      },
+      "android-glide": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-gps": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-gradle-plugin": {
+        "precision": 0.6666666666666666,
+        "recall": 0.07692307692307693,
+        "f1": 0.13793103448275862
+      },
+      "android-imageview": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-instant-apps": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-intent": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-jetpack": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-layout": {
+        "precision": 0.3333333333333333,
+        "recall": 0.019230769230769232,
+        "f1": 0.03636363636363636
+      },
+      "android-lifecycle": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-livedata": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-manifest": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-ndk": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-notifications": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-permissions": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-recyclerview": {
+        "precision": 0.6666666666666666,
+        "recall": 0.24,
+        "f1": 0.35294117647058826
+      },
+      "android-room": {
+        "precision": 0.75,
+        "recall": 0.23076923076923078,
+        "f1": 0.35294117647058826
+      },
+      "android-sdk-tools": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-service": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-spinner": {
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1": 0.4
+      },
+      "android-sqlite": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-studio": {
+        "precision": 0.5869565217391305,
+        "recall": 0.16981132075471697,
+        "f1": 0.2634146341463415
+      },
+      "android-studio-2.2": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-studio-3.0": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-support-library": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-testing": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-toolbar": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-viewpager": {
+        "precision": 0.5,
+        "recall": 0.125,
+        "f1": 0.2
+      },
+      "android-volley": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "android-webview": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "androidx": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "angular": {
+        "precision": 0.8992537313432836,
+        "recall": 0.5821256038647343,
+        "f1": 0.7067448680351907
+      },
+      "angular-cli": {
+        "precision": 0.6,
+        "recall": 0.15,
+        "f1": 0.24
+      },
+      "angular-material": {
+        "precision": 0.5,
+        "recall": 0.05555555555555555,
+        "f1": 0.1
+      },
+      "angular-material2": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "angular-reactive-forms": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "angular-routing": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "angular-ui-bootstrap": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "angular2-directives": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "angular2-forms": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "angular2-routing": {
+        "precision": 0.3333333333333333,
+        "recall": 0.0625,
+        "f1": 0.10526315789473684
+      },
+      "angular2-services": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "angular2-template": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "angular5": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "angular6": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "angular7": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "angularjs": {
+        "precision": 0.5,
+        "recall": 0.15384615384615385,
+        "f1": 0.23529411764705882
+      },
+      "animation": {
+        "precision": 0.75,
+        "recall": 0.1875,
+        "f1": 0.3
+      },
+      "annotations": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ansible": {
+        "precision": 0.8888888888888888,
+        "recall": 0.47058823529411764,
+        "f1": 0.6153846153846154
+      },
+      "ansible-playbook": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "apache": {
+        "precision": 0.2857142857142857,
+        "recall": 0.08695652173913043,
+        "f1": 0.13333333333333333
+      },
+      "apache-kafka": {
+        "precision": 1.0,
+        "recall": 0.7222222222222222,
+        "f1": 0.8387096774193549
+      },
+      "apache-poi": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "apache-spark": {
+        "precision": 0.8888888888888888,
+        "recall": 0.3380281690140845,
+        "f1": 0.4897959183673469
+      },
+      "apache-spark-sql": {
+        "precision": 0.25,
+        "recall": 0.05,
+        "f1": 0.08333333333333333
+      },
+      "api": {
+        "precision": 0.2,
+        "recall": 0.05128205128205128,
+        "f1": 0.08163265306122448
+      },
+      "apk": {
+        "precision": 0.75,
+        "recall": 0.42857142857142855,
+        "f1": 0.5454545454545454
+      },
+      "apollo": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "apollo-client": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "app-store": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "app-store-connect": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "append": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "apple-push-notifications": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "apply": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "architecture": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "arduino": {
+        "precision": 0.8888888888888888,
+        "recall": 0.4,
+        "f1": 0.5517241379310345
+      },
+      "arguments": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "arm": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "arraylist": {
+        "precision": 0.6,
+        "recall": 0.05555555555555555,
+        "f1": 0.1016949152542373
+      },
+      "arrays": {
+        "precision": 0.625,
+        "recall": 0.28846153846153844,
+        "f1": 0.39473684210526316
+      },
+      "artificial-intelligence": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ascii": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "asp.net": {
+        "precision": 0.5,
+        "recall": 0.016666666666666666,
+        "f1": 0.03225806451612903
+      },
+      "asp.net-core": {
+        "precision": 0.6666666666666666,
+        "recall": 0.027777777777777776,
+        "f1": 0.05333333333333334
+      },
+      "asp.net-core-1.0": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "asp.net-core-2.0": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "asp.net-core-mvc": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "asp.net-core-webapi": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "asp.net-identity": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "asp.net-mvc": {
+        "precision": 0.25,
+        "recall": 0.028169014084507043,
+        "f1": 0.05063291139240506
+      },
+      "asp.net-mvc-4": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "asp.net-mvc-5": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "asp.net-web-api": {
+        "precision": 0.5,
+        "recall": 0.09090909090909091,
+        "f1": 0.15384615384615385
+      },
+      "asp.net-web-api2": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "assembly": {
+        "precision": 0.9,
+        "recall": 0.2727272727272727,
+        "f1": 0.4186046511627907
+      },
+      "assert": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "associative-array": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "async-await": {
+        "precision": 0.5,
+        "recall": 0.25,
+        "f1": 0.3333333333333333
+      },
+      "asynchronous": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "atlassian-sourcetree": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "atom-editor": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "attributes": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "audio": {
+        "precision": 0.5,
+        "recall": 0.06666666666666667,
+        "f1": 0.11764705882352941
+      },
+      "aurelia": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "authentication": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "autocomplete": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "autoit": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "autolayout": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "automated-tests": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "automation": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "autowired": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "average": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "avfoundation": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "awk": {
+        "precision": 0.5714285714285714,
+        "recall": 0.2,
+        "f1": 0.2962962962962963
+      },
+      "aws-api-gateway": {
+        "precision": 0.6,
+        "recall": 0.42857142857142855,
+        "f1": 0.5
+      },
+      "aws-cli": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "aws-codebuild": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "aws-codepipeline": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "aws-lambda": {
+        "precision": 0.7777777777777778,
+        "recall": 0.45161290322580644,
+        "f1": 0.5714285714285714
+      },
+      "aws-sdk": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "axios": {
+        "precision": 0.8,
+        "recall": 0.3076923076923077,
+        "f1": 0.4444444444444444
+      },
+      "azure": {
+        "precision": 0.8333333333333334,
+        "recall": 0.5,
+        "f1": 0.625
+      },
+      "azure-active-directory": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "azure-cosmosdb": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "azure-devops": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "azure-functions": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "azure-pipelines": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "azure-service-fabric": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "azure-sql-database": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "azure-web-sites": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "babel": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "babeljs": {
+        "precision": 1.0,
+        "recall": 0.1111111111111111,
+        "f1": 0.2
+      },
+      "backbone.js": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "backend": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "background": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "background-image": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "base64": {
+        "precision": 0.3333333333333333,
+        "recall": 0.14285714285714285,
+        "f1": 0.2
+      },
+      "bash": {
+        "precision": 0.673469387755102,
+        "recall": 0.3402061855670103,
+        "f1": 0.4520547945205479
+      },
+      "batch-file": {
+        "precision": 0.7916666666666666,
+        "recall": 0.4523809523809524,
+        "f1": 0.5757575757575758
+      },
+      "bcrypt": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "beautifulsoup": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "big-o": {
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1": 0.4
+      },
+      "bigdata": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "binary": {
+        "precision": 0.3333333333333333,
+        "recall": 0.07692307692307693,
+        "f1": 0.125
+      },
+      "binary-search": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "binary-tree": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "bit-manipulation": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "bitbucket": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "bitmap": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "bitwise-operators": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "blade": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "blockchain": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "blogger": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "bluetooth": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "bluetooth-lowenergy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "bokeh": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "boolean": {
+        "precision": 1.0,
+        "recall": 0.13333333333333333,
+        "f1": 0.23529411764705882
+      },
+      "boost": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "bootstrap-4": {
+        "precision": 0.5,
+        "recall": 0.03571428571428571,
+        "f1": 0.06666666666666667
+      },
+      "bootstrap-modal": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "botframework": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "boto3": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "bots": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "bottom-sheet": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "bottomnavigationview": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "broadcastreceiver": {
+        "precision": 0.5,
+        "recall": 0.25,
+        "f1": 0.3333333333333333
+      },
+      "browser": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "build": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "build.gradle": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "bukkit": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "bundle": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "button": {
+        "precision": 0.14285714285714285,
+        "recall": 0.047619047619047616,
+        "f1": 0.07142857142857142
+      },
+      "byte": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "c": {
+        "precision": 0.84,
+        "recall": 0.2727272727272727,
+        "f1": 0.4117647058823529
+      },
+      "c#": {
+        "precision": 0.6506410256410257,
+        "recall": 0.19960668633235004,
+        "f1": 0.3054928517682468
+      },
+      "c#-3.0": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "c#-4.0": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "c#-7.0": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "c++": {
+        "precision": 0.8392156862745098,
+        "recall": 0.2891891891891892,
+        "f1": 0.4301507537688442
+      },
+      "c++-cli": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "c++11": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "c++14": {
+        "precision": 0.5,
+        "recall": 0.05263157894736842,
+        "f1": 0.09523809523809523
+      },
+      "c++17": {
+        "precision": 0.4,
+        "recall": 0.1111111111111111,
+        "f1": 0.17391304347826086
+      },
+      "c++20": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "c-preprocessor": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "c-strings": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "caching": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "cakephp": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "calculator": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "calendar": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "callback": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "camera": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "canvas": {
+        "precision": 1.0,
+        "recall": 0.16666666666666666,
+        "f1": 0.2857142857142857
+      },
+      "case": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "cassandra": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "casting": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "celery": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "centering": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "centos": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "centos7": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "cgi": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "chai": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "char": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "character": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "character-encoding": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "chart.js": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "charts": {
+        "precision": 1.0,
+        "recall": 0.2,
+        "f1": 0.3333333333333333
+      },
+      "chat": {
+        "precision": 0.5,
+        "recall": 0.14285714285714285,
+        "f1": 0.2222222222222222
+      },
+      "chatbot": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "checkbox": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "chef-infra": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "chromium": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "clang": {
+        "precision": 1.0,
+        "recall": 0.125,
+        "f1": 0.2222222222222222
+      },
+      "clang-format": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "class": {
+        "precision": 0.4444444444444444,
+        "recall": 0.0625,
+        "f1": 0.1095890410958904
+      },
+      "classification": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "click": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "client": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "clion": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "clojure": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "clone": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "closures": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "cloud": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "cluster-analysis": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "cmake": {
+        "precision": 0.9,
+        "recall": 0.5,
+        "f1": 0.6428571428571429
+      },
+      "cmd": {
+        "precision": 0.5,
+        "recall": 0.13636363636363635,
+        "f1": 0.21428571428571427
+      },
+      "cocoa": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "cocoa-touch": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "cocoapods": {
+        "precision": 0.3333333333333333,
+        "recall": 0.16666666666666666,
+        "f1": 0.2222222222222222
+      },
+      "codable": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "code-coverage": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "codeblocks": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "codeigniter": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "codeigniter-3": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "coding-style": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "collections": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "colors": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "combinatorics": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "combobox": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "comma": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "command": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "command-line": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "command-line-arguments": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "command-line-interface": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "command-prompt": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "comments": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "comparable": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "compare": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "comparison": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "compilation": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "compiler-construction": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "compiler-errors": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "compiler-warnings": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "components": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "composer-php": {
+        "precision": 1.0,
+        "recall": 0.1,
+        "f1": 0.18181818181818182
+      },
+      "compression": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "computer-science": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "computer-vision": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "concatenation": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "concurrency": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "conda": {
+        "precision": 0.625,
+        "recall": 0.3125,
+        "f1": 0.4166666666666667
+      },
+      "conditional": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "conditional-statements": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "config": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "configuration": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "connection": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "console": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "console-application": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "constants": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "constexpr": {
+        "precision": 0.5,
+        "recall": 0.5,
+        "f1": 0.5
+      },
+      "constraints": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "constructor": {
+        "precision": 0.42857142857142855,
+        "recall": 0.14285714285714285,
+        "f1": 0.21428571428571427
+      },
+      "containers": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "contains": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "content-management-system": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "continuous-deployment": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "continuous-integration": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "conv-neural-network": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "converter": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "converters": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "convolution": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "cookies": {
+        "precision": 1.0,
+        "recall": 0.07142857142857142,
+        "f1": 0.13333333333333333
+      },
+      "copy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "cordova": {
+        "precision": 0.75,
+        "recall": 0.4090909090909091,
+        "f1": 0.5294117647058824
+      },
+      "cordova-plugins": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "core-data": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "coroutine": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "cors": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "count": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "counter": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "cpanel": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "cpu": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "crash": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "crashlytics": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "create-react-app": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "cron": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "cross-platform": {
+        "precision": 0.5,
+        "recall": 0.25,
+        "f1": 0.3333333333333333
+      },
+      "crud": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "cryptography": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "crystal-reports": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "cs50": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "css": {
+        "precision": 0.8353909465020576,
+        "recall": 0.3980392156862745,
+        "f1": 0.5391766268260292
+      },
+      "css-grid": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "css-selectors": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "csv": {
+        "precision": 0.5,
+        "recall": 0.2413793103448276,
+        "f1": 0.32558139534883723
+      },
+      "cuda": {
+        "precision": 1.0,
+        "recall": 0.2222222222222222,
+        "f1": 0.36363636363636365
+      },
+      "curl": {
+        "precision": 1.0,
+        "recall": 0.19047619047619047,
+        "f1": 0.32
+      },
+      "cygwin": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "cypress": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "d3.js": {
+        "precision": 1.0,
+        "recall": 0.2222222222222222,
+        "f1": 0.36363636363636365
+      },
+      "dagger-2": {
+        "precision": 1.0,
+        "recall": 0.16666666666666666,
+        "f1": 0.2857142857142857
+      },
+      "dapper": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "dart": {
+        "precision": 0.7894736842105263,
+        "recall": 0.19736842105263158,
+        "f1": 0.3157894736842105
+      },
+      "data-analysis": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "data-binding": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "data-cleaning": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "data-science": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "data-structures": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "data.table": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "database": {
+        "precision": 0.25,
+        "recall": 0.016,
+        "f1": 0.03007518796992481
+      },
+      "database-design": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "dataframe": {
+        "precision": 0.15789473684210525,
+        "recall": 0.04411764705882353,
+        "f1": 0.06896551724137931
+      },
+      "datagridview": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "dataset": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "datatable": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "datatables": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "date": {
+        "precision": 0.3888888888888889,
+        "recall": 0.10294117647058823,
+        "f1": 0.16279069767441862
+      },
+      "date-formatting": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "datepicker": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "datetime": {
+        "precision": 0.2857142857142857,
+        "recall": 0.037037037037037035,
+        "f1": 0.06557377049180328
+      },
+      "datetime-format": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "db2": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "debian": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "debugging": {
+        "precision": 0.375,
+        "recall": 0.125,
+        "f1": 0.1875
+      },
+      "decimal": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "decode": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "deep-learning": {
+        "precision": 0.4444444444444444,
+        "recall": 0.25,
+        "f1": 0.32
+      },
+      "delegates": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "delimiter": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "delphi": {
+        "precision": 0.625,
+        "recall": 0.3333333333333333,
+        "f1": 0.43478260869565216
+      },
+      "dependencies": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "dependency-injection": {
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1": 0.4
+      },
+      "deployment": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "deprecated": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "design-patterns": {
+        "precision": 0.5,
+        "recall": 0.125,
+        "f1": 0.2
+      },
+      "desktop-application": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "destructor": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "destructuring": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "devexpress": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "devise": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "devops": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "dialog": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "dictionary": {
+        "precision": 0.5384615384615384,
+        "recall": 0.15053763440860216,
+        "f1": 0.23529411764705882
+      },
+      "directory": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "discord": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "discord.js": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "display": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "django": {
+        "precision": 0.9375,
+        "recall": 0.5232558139534884,
+        "f1": 0.6716417910447762
+      },
+      "django-models": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "django-rest-framework": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "django-templates": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "django-views": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "dll": {
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1": 0.4
+      },
+      "dns": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "do-while": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "docker": {
+        "precision": 0.9519230769230769,
+        "recall": 0.6556291390728477,
+        "f1": 0.7764705882352941
+      },
+      "docker-compose": {
+        "precision": 0.3333333333333333,
+        "recall": 0.06666666666666667,
+        "f1": 0.1111111111111111
+      },
+      "docker-image": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "docker-machine": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "docker-swarm": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "dockerfile": {
+        "precision": 0.625,
+        "recall": 0.2,
+        "f1": 0.30303030303030304
+      },
+      "doctrine": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "documentation": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "dom": {
+        "precision": 0.3333333333333333,
+        "recall": 0.08333333333333333,
+        "f1": 0.13333333333333333
+      },
+      "dom-events": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "double": {
+        "precision": 0.6,
+        "recall": 0.2727272727272727,
+        "f1": 0.375
+      },
+      "download": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "dplyr": {
+        "precision": 1.0,
+        "recall": 0.15,
+        "f1": 0.2608695652173913
+      },
+      "drop-down-menu": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "duplicates": {
+        "precision": 0.3333333333333333,
+        "recall": 0.1111111111111111,
+        "f1": 0.16666666666666666
+      },
+      "dynamic": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "dynamic-arrays": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "dynamic-memory-allocation": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "echo": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "eclipse": {
+        "precision": 0.875,
+        "recall": 0.35,
+        "f1": 0.5
+      },
+      "ecmascript-6": {
+        "precision": 0.5806451612903226,
+        "recall": 0.28125,
+        "f1": 0.37894736842105264
+      },
+      "editor": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "elasticsearch": {
+        "precision": 1.0,
+        "recall": 0.4,
+        "f1": 0.5714285714285714
+      },
+      "electron": {
+        "precision": 1.0,
+        "recall": 0.46153846153846156,
+        "f1": 0.631578947368421
+      },
+      "element": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "elixir": {
+        "precision": 0.5,
+        "recall": 0.07692307692307693,
+        "f1": 0.13333333333333333
+      },
+      "elm": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "eloquent": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "emacs": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "email": {
+        "precision": 0.4,
+        "recall": 0.16,
+        "f1": 0.22857142857142856
+      },
+      "embedded": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "emr": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "encode": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "encoding": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "encryption": {
+        "precision": 0.7142857142857143,
+        "recall": 0.37037037037037035,
+        "f1": 0.4878048780487805
+      },
+      "entity-framework": {
+        "precision": 0.75,
+        "recall": 0.10714285714285714,
+        "f1": 0.1875
+      },
+      "entity-framework-6": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "entity-framework-core": {
+        "precision": 0.5,
+        "recall": 0.2,
+        "f1": 0.2857142857142857
+      },
+      "enums": {
+        "precision": 0.6666666666666666,
+        "recall": 0.47619047619047616,
+        "f1": 0.5555555555555556
+      },
+      "environment-variables": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "enzyme": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "equals": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "error-handling": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "es6-modules": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "es6-promise": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "escaping": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "eslint": {
+        "precision": 1.0,
+        "recall": 0.5454545454545454,
+        "f1": 0.7058823529411765
+      },
+      "esp8266": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "event-handling": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "events": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "excel": {
+        "precision": 0.7642276422764228,
+        "recall": 0.5987261146496815,
+        "f1": 0.6714285714285714
+      },
+      "excel-formula": {
+        "precision": 0.5,
+        "recall": 0.2,
+        "f1": 0.2857142857142857
+      },
+      "exception": {
+        "precision": 1.0,
+        "recall": 0.05263157894736842,
+        "f1": 0.1
+      },
+      "exception-handling": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "exe": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "expo": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "export": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "express": {
+        "precision": 0.6666666666666666,
+        "recall": 0.058823529411764705,
+        "f1": 0.10810810810810811
+      },
+      "expression": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "extjs": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "extract": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "f#": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "facebook": {
+        "precision": 0.55,
+        "recall": 0.3548387096774194,
+        "f1": 0.43137254901960786
+      },
+      "facebook-graph-api": {
+        "precision": 0.5,
+        "recall": 0.06666666666666667,
+        "f1": 0.11764705882352941
+      },
+      "fetch": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ffmpeg": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "fibonacci": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "field": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "file": {
+        "precision": 0.23076923076923078,
+        "recall": 0.0379746835443038,
+        "f1": 0.06521739130434782
+      },
+      "file-handling": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "file-io": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "file-permissions": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "file-upload": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "filenames": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "filereader": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "filesystems": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "filter": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "find": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "firebase": {
+        "precision": 0.8607594936708861,
+        "recall": 0.5271317829457365,
+        "f1": 0.6538461538461539
+      },
+      "firebase-analytics": {
+        "precision": 1.0,
+        "recall": 0.3333333333333333,
+        "f1": 0.5
+      },
+      "firebase-authentication": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "firebase-cloud-messaging": {
+        "precision": 0.5,
+        "recall": 0.25,
+        "f1": 0.3333333333333333
+      },
+      "firebase-notifications": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "firebase-realtime-database": {
+        "precision": 0.5,
+        "recall": 0.15384615384615385,
+        "f1": 0.23529411764705882
+      },
+      "firebase-remote-config": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "firebase-security": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "firebase-storage": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "firefox": {
+        "precision": 1.0,
+        "recall": 0.13333333333333333,
+        "f1": 0.23529411764705882
+      },
+      "flash": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "flask": {
+        "precision": 0.8461538461538461,
+        "recall": 0.44,
+        "f1": 0.5789473684210527
+      },
+      "flask-sqlalchemy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "flexbox": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "floating-point": {
+        "precision": 0.2857142857142857,
+        "recall": 0.08695652173913043,
+        "f1": 0.13333333333333333
+      },
+      "flowtype": {
+        "precision": 0.5,
+        "recall": 0.16666666666666666,
+        "f1": 0.25
+      },
+      "flutter": {
+        "precision": 1.0,
+        "recall": 0.7606837606837606,
+        "f1": 0.8640776699029126
+      },
+      "flutter-layout": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "flutter-test": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "font-awesome": {
+        "precision": 1.0,
+        "recall": 0.2,
+        "f1": 0.3333333333333333
+      },
+      "fonts": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "for-loop": {
+        "precision": 0.2727272727272727,
+        "recall": 0.045454545454545456,
+        "f1": 0.07792207792207792
+      },
+      "foreach": {
+        "precision": 0.16666666666666666,
+        "recall": 0.06666666666666667,
+        "f1": 0.09523809523809523
+      },
+      "foreign-keys": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "format": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "formatting": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "forms": {
+        "precision": 0.6666666666666666,
+        "recall": 0.03773584905660377,
+        "f1": 0.07142857142857142
+      },
+      "formula": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "fortran": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "fragment": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "frameworks": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "frontend": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "fstream": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ftp": {
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1": 0.4
+      },
+      "function": {
+        "precision": 0.21052631578947367,
+        "recall": 0.041666666666666664,
+        "f1": 0.06956521739130435
+      },
+      "functional-programming": {
+        "precision": 0.5,
+        "recall": 0.125,
+        "f1": 0.2
+      },
+      "g++": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "game-engine": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "garbage-collection": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "gatsby": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "gcc": {
+        "precision": 0.38461538461538464,
+        "recall": 0.19230769230769232,
+        "f1": 0.2564102564102564
+      },
+      "gcloud": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "gdb": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "generator": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "generics": {
+        "precision": 0.5,
+        "recall": 0.08333333333333333,
+        "f1": 0.14285714285714285
+      },
+      "gensim": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "geolocation": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "geometry": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "get": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ggplot2": {
+        "precision": 0.8333333333333334,
+        "recall": 0.20833333333333334,
+        "f1": 0.3333333333333333
+      },
+      "ghc": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "gis": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "git": {
+        "precision": 0.7611940298507462,
+        "recall": 0.4322033898305085,
+        "f1": 0.5513513513513514
+      },
+      "git-branch": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "github": {
+        "precision": 0.75,
+        "recall": 0.28846153846153844,
+        "f1": 0.4166666666666667
+      },
+      "gitkraken": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "gitlab": {
+        "precision": 0.8571428571428571,
+        "recall": 0.35294117647058826,
+        "f1": 0.5
+      },
+      "gitlab-ci": {
+        "precision": 0.3333333333333333,
+        "recall": 0.09090909090909091,
+        "f1": 0.14285714285714285
+      },
+      "gitlab-ci-runner": {
+        "precision": 0.6666666666666666,
+        "recall": 0.2857142857142857,
+        "f1": 0.4
+      },
+      "global": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "global-variables": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "gmail": {
+        "precision": 0.5,
+        "recall": 0.25,
+        "f1": 0.3333333333333333
+      },
+      "gnupg": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "go": {
+        "precision": 0.9852941176470589,
+        "recall": 0.5317460317460317,
+        "f1": 0.6907216494845361
+      },
+      "google-analytics": {
+        "precision": 1.0,
+        "recall": 0.14285714285714285,
+        "f1": 0.25
+      },
+      "google-api": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "google-app-engine": {
+        "precision": 1.0,
+        "recall": 0.3076923076923077,
+        "f1": 0.47058823529411764
+      },
+      "google-apps-script": {
+        "precision": 1.0,
+        "recall": 0.07142857142857142,
+        "f1": 0.13333333333333333
+      },
+      "google-bigquery": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "google-calendar-api": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "google-chrome": {
+        "precision": 0.5675675675675675,
+        "recall": 0.4117647058823529,
+        "f1": 0.4772727272727273
+      },
+      "google-chrome-devtools": {
+        "precision": 0.25,
+        "recall": 0.08333333333333333,
+        "f1": 0.125
+      },
+      "google-chrome-extension": {
+        "precision": 0.25,
+        "recall": 0.09090909090909091,
+        "f1": 0.13333333333333333
+      },
+      "google-cloud-datastore": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "google-cloud-firestore": {
+        "precision": 1.0,
+        "recall": 0.3181818181818182,
+        "f1": 0.4827586206896552
+      },
+      "google-cloud-functions": {
+        "precision": 0.5,
+        "recall": 0.06666666666666667,
+        "f1": 0.11764705882352941
+      },
+      "google-cloud-messaging": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "google-cloud-platform": {
+        "precision": 0.42857142857142855,
+        "recall": 0.15789473684210525,
+        "f1": 0.23076923076923078
+      },
+      "google-cloud-storage": {
+        "precision": 0.5,
+        "recall": 0.16666666666666666,
+        "f1": 0.25
+      },
+      "google-colaboratory": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "google-compute-engine": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "google-drive-api": {
+        "precision": 0.6666666666666666,
+        "recall": 0.4,
+        "f1": 0.5
+      },
+      "google-kubernetes-engine": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "google-maps": {
+        "precision": 0.8,
+        "recall": 0.38461538461538464,
+        "f1": 0.5194805194805194
+      },
+      "google-maps-api-3": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "google-play": {
+        "precision": 0.5555555555555556,
+        "recall": 0.21739130434782608,
+        "f1": 0.3125
+      },
+      "google-play-console": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "google-play-services": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "google-sheets": {
+        "precision": 0.6666666666666666,
+        "recall": 0.15384615384615385,
+        "f1": 0.25
+      },
+      "google-sheets-formula": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "google-signin": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "gpu": {
+        "precision": 0.5,
+        "recall": 0.1,
+        "f1": 0.16666666666666666
+      },
+      "gradle": {
+        "precision": 0.6666666666666666,
+        "recall": 0.26666666666666666,
+        "f1": 0.38095238095238093
+      },
+      "grafana": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "graph": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "graphics": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "graphql": {
+        "precision": 0.9166666666666666,
+        "recall": 0.6875,
+        "f1": 0.7857142857142857
+      },
+      "graphql-js": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "grep": {
+        "precision": 0.2857142857142857,
+        "recall": 0.16666666666666666,
+        "f1": 0.21052631578947367
+      },
+      "grid": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "gridview": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "groovy": {
+        "precision": 0.5,
+        "recall": 0.16666666666666666,
+        "f1": 0.25
+      },
+      "group-by": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "grpc": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "gson": {
+        "precision": 1.0,
+        "recall": 0.14285714285714285,
+        "f1": 0.25
+      },
+      "gulp": {
+        "precision": 1.0,
+        "recall": 0.3,
+        "f1": 0.46153846153846156
+      },
+      "gunicorn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "gzip": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "hadoop": {
+        "precision": 1.0,
+        "recall": 0.2,
+        "f1": 0.3333333333333333
+      },
+      "hardware": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "hash": {
+        "precision": 0.2,
+        "recall": 0.0625,
+        "f1": 0.09523809523809523
+      },
+      "hashmap": {
+        "precision": 0.4,
+        "recall": 0.11764705882352941,
+        "f1": 0.18181818181818182
+      },
+      "hashset": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "hashtable": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "haskell": {
+        "precision": 0.9444444444444444,
+        "recall": 0.4146341463414634,
+        "f1": 0.576271186440678
+      },
+      "haskell-stack": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "hdfs": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "header": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "header-files": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "heap": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "heap-memory": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "heroku": {
+        "precision": 0.8888888888888888,
+        "recall": 0.5714285714285714,
+        "f1": 0.6956521739130435
+      },
+      "hex": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "hibernate": {
+        "precision": 1.0,
+        "recall": 0.09090909090909091,
+        "f1": 0.16666666666666666
+      },
+      "highcharts": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "histogram": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "hive": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "homebrew": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "hosting": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "hover": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "html": {
+        "precision": 0.7018970189701897,
+        "recall": 0.3181818181818182,
+        "f1": 0.4378698224852071
+      },
+      "html-email": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "html-table": {
+        "precision": 0.3333333333333333,
+        "recall": 0.0625,
+        "f1": 0.10526315789473684
+      },
+      "html5-video": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "http": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "http-headers": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "http-post": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "httpclient": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "https": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "hyperledger": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "hyperledger-fabric": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "hyperlink": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "icons": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "id": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ide": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "identityserver4": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "if-statement": {
+        "precision": 0.1951219512195122,
+        "recall": 0.11267605633802817,
+        "f1": 0.14285714285714285
+      },
+      "iframe": {
+        "precision": 0.5,
+        "recall": 0.14285714285714285,
+        "f1": 0.2222222222222222
+      },
+      "iis": {
+        "precision": 0.6666666666666666,
+        "recall": 0.2857142857142857,
+        "f1": 0.4
+      },
+      "image": {
+        "precision": 0.2857142857142857,
+        "recall": 0.0392156862745098,
+        "f1": 0.06896551724137931
+      },
+      "image-processing": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "imagemagick": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "imageview": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "immutability": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "immutable.js": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "import": {
+        "precision": 0.1875,
+        "recall": 0.12,
+        "f1": 0.14634146341463414
+      },
+      "in-app-purchase": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "include": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "increment": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "indentation": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "indexing": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "indexoutofboundsexception": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "infinite-loop": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "inheritance": {
+        "precision": 0.2,
+        "recall": 0.058823529411764705,
+        "f1": 0.09090909090909091
+      },
+      "initialization": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "input": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "insert": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "instagram": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "instagram-api": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "installation": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "int": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "integer": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "intellij-idea": {
+        "precision": 0.9333333333333333,
+        "recall": 0.5,
+        "f1": 0.6511627906976745
+      },
+      "intellisense": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "interface": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "interface-builder": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "internationalization": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "internet-explorer": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "internet-explorer-11": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "io": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ionic-framework": {
+        "precision": 0.7692307692307693,
+        "recall": 0.43478260869565216,
+        "f1": 0.5555555555555556
+      },
+      "ionic2": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ionic3": {
+        "precision": 1.0,
+        "recall": 0.2,
+        "f1": 0.3333333333333333
+      },
+      "ionic4": {
+        "precision": 0.3333333333333333,
+        "recall": 1.0,
+        "f1": 0.5
+      },
+      "ios": {
+        "precision": 0.6654275092936803,
+        "recall": 0.38085106382978723,
+        "f1": 0.4844384303112314
+      },
+      "ios-simulator": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ios10": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ios11": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ios13": {
+        "precision": 1.0,
+        "recall": 0.07692307692307693,
+        "f1": 0.14285714285714285
+      },
+      "ios9": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ip": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ip-address": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ipad": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "iphone": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "iphone-x": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ipython": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "iteration": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "iterator": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "iterm2": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "itext": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "jackson": {
+        "precision": 1.0,
+        "recall": 0.42857142857142855,
+        "f1": 0.6
+      },
+      "jakarta-ee": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "jar": {
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1": 0.4
+      },
+      "jasmine": {
+        "precision": 0.6666666666666666,
+        "recall": 0.18181818181818182,
+        "f1": 0.2857142857142857
+      },
+      "java": {
+        "precision": 0.8254335260115607,
+        "recall": 0.4562300319488818,
+        "f1": 0.5876543209876544
+      },
+      "java-11": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "java-8": {
+        "precision": 0.375,
+        "recall": 0.07692307692307693,
+        "f1": 0.1276595744680851
+      },
+      "java-9": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "java-native-interface": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "java-stream": {
+        "precision": 0.5,
+        "recall": 0.05263157894736842,
+        "f1": 0.09523809523809523
+      },
+      "java.util.scanner": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "javafx": {
+        "precision": 0.8,
+        "recall": 0.3333333333333333,
+        "f1": 0.47058823529411764
+      },
+      "javascript": {
+        "precision": 0.8106235565819861,
+        "recall": 0.40790238233585124,
+        "f1": 0.542713567839196
+      },
+      "javascript-events": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "javascript-objects": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "jbutton": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "jdbc": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "jekyll": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "jenkins": {
+        "precision": 0.96,
+        "recall": 0.5853658536585366,
+        "f1": 0.7272727272727273
+      },
+      "jenkins-pipeline": {
+        "precision": 0.6666666666666666,
+        "recall": 0.2222222222222222,
+        "f1": 0.3333333333333333
+      },
+      "jenkins-plugins": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "jestjs": {
+        "precision": 1.0,
+        "recall": 0.5555555555555556,
+        "f1": 0.7142857142857143
+      },
+      "jframe": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "jinja2": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "jmeter": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "join": {
+        "precision": 0.5,
+        "recall": 0.2222222222222222,
+        "f1": 0.3076923076923077
+      },
+      "jpa": {
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1": 0.4
+      },
+      "jpeg": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "jquery": {
+        "precision": 0.84472049689441,
+        "recall": 0.32304038004750596,
+        "f1": 0.46735395189003437
+      },
+      "jquery-ui": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "jsf": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "json": {
+        "precision": 0.7867647058823529,
+        "recall": 0.44583333333333336,
+        "f1": 0.5691489361702128
+      },
+      "json.net": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "jsp": {
+        "precision": 0.6666666666666666,
+        "recall": 0.2857142857142857,
+        "f1": 0.4
+      },
+      "jsx": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "jtable": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "julia": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "junit": {
+        "precision": 0.5,
+        "recall": 0.09090909090909091,
+        "f1": 0.15384615384615385
+      },
+      "jupyter": {
+        "precision": 0.5,
+        "recall": 0.2,
+        "f1": 0.2857142857142857
+      },
+      "jupyter-notebook": {
+        "precision": 0.7222222222222222,
+        "recall": 0.6190476190476191,
+        "f1": 0.6666666666666666
+      },
+      "jvm": {
+        "precision": 1.0,
+        "recall": 0.25,
+        "f1": 0.4
+      },
+      "jwt": {
+        "precision": 0.5,
+        "recall": 0.2222222222222222,
+        "f1": 0.3076923076923077
+      },
+      "kafka-consumer-api": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "karma-jasmine": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "karma-runner": {
+        "precision": 0.5,
+        "recall": 0.25,
+        "f1": 0.3333333333333333
+      },
+      "keras": {
+        "precision": 1.0,
+        "recall": 0.36585365853658536,
+        "f1": 0.5357142857142857
+      },
+      "kestrel-http-server": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "key": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "key-value": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "keyboard": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "keyboard-shortcuts": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "keycloak": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "keyword": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "kivy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "kotlin": {
+        "precision": 0.9428571428571428,
+        "recall": 0.6226415094339622,
+        "f1": 0.75
+      },
+      "kotlin-android-extensions": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "kubectl": {
+        "precision": 1.0,
+        "recall": 0.2,
+        "f1": 0.3333333333333333
+      },
+      "kubernetes": {
+        "precision": 0.9333333333333333,
+        "recall": 0.717948717948718,
+        "f1": 0.8115942028985508
+      },
+      "kubernetes-helm": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "label": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "lambda": {
+        "precision": 0.5384615384615384,
+        "recall": 0.23333333333333334,
+        "f1": 0.32558139534883723
+      },
+      "language-design": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "language-lawyer": {
+        "precision": 0.5,
+        "recall": 0.06666666666666667,
+        "f1": 0.11764705882352941
+      },
+      "laravel": {
+        "precision": 0.8765432098765432,
+        "recall": 0.5634920634920635,
+        "f1": 0.6859903381642513
+      },
+      "laravel-5": {
+        "precision": 0.26666666666666666,
+        "recall": 0.10810810810810811,
+        "f1": 0.15384615384615385
+      },
+      "laravel-5.1": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "laravel-5.2": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "laravel-5.3": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "laravel-5.4": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "laravel-5.5": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "laravel-blade": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "layout": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "lazy-loading": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "leaflet": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "left-join": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "legend": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "less": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "lets-encrypt": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "libgdx": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "linear-regression": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "linked-list": {
+        "precision": 0.42857142857142855,
+        "recall": 0.25,
+        "f1": 0.3157894736842105
+      },
+      "linker": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "linq": {
+        "precision": 0.8095238095238095,
+        "recall": 0.4146341463414634,
+        "f1": 0.5483870967741935
+      },
+      "linq-to-sql": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "lint": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "linux": {
+        "precision": 0.7333333333333333,
+        "recall": 0.19186046511627908,
+        "f1": 0.30414746543778803
+      },
+      "linux-kernel": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "list": {
+        "precision": 0.45454545454545453,
+        "recall": 0.09740259740259741,
+        "f1": 0.16042780748663102
+      },
+      "list-comprehension": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "listbox": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "listener": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "listview": {
+        "precision": 0.5714285714285714,
+        "recall": 0.16666666666666666,
+        "f1": 0.25806451612903225
+      },
+      "literals": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "local-storage": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "locale": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "localhost": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "localization": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "location": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "lodash": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "logback": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "logging": {
+        "precision": 0.6666666666666666,
+        "recall": 0.08695652173913043,
+        "f1": 0.15384615384615385
+      },
+      "logic": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "logical-operators": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "login": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "lombok": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "long-integer": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "loops": {
+        "precision": 0.3333333333333333,
+        "recall": 0.049019607843137254,
+        "f1": 0.08547008547008547
+      },
+      "lstm": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "lua": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "machine-learning": {
+        "precision": 0.6875,
+        "recall": 0.1774193548387097,
+        "f1": 0.28205128205128205
+      },
+      "macos": {
+        "precision": 0.5333333333333333,
+        "recall": 0.12698412698412698,
+        "f1": 0.20512820512820512
+      },
+      "macos-high-sierra": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "macos-sierra": {
+        "precision": 0.5,
+        "recall": 0.14285714285714285,
+        "f1": 0.2222222222222222
+      },
+      "macros": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "magento": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "main": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "makefile": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "malloc": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "mapreduce": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "maps": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "mariadb": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "markdown": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "match": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "material-design": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "material-ui": {
+        "precision": 0.5,
+        "recall": 0.09090909090909091,
+        "f1": 0.15384615384615385
+      },
+      "materialize": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "math": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "matlab": {
+        "precision": 0.9583333333333334,
+        "recall": 0.5348837209302325,
+        "f1": 0.6865671641791045
+      },
+      "matplotlib": {
+        "precision": 1.0,
+        "recall": 0.16666666666666666,
+        "f1": 0.2857142857142857
+      },
+      "matrix": {
+        "precision": 0.3333333333333333,
+        "recall": 0.05263157894736842,
+        "f1": 0.09090909090909091
+      },
+      "maven": {
+        "precision": 0.7647058823529411,
+        "recall": 0.325,
+        "f1": 0.45614035087719296
+      },
+      "max": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "md5": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "mean": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "media-queries": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "memory": {
+        "precision": 0.3333333333333333,
+        "recall": 0.07407407407407407,
+        "f1": 0.12121212121212122
+      },
+      "memory-leaks": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "memory-management": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "menu": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "merge": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "mergesort": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "meteor": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "methods": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "microcontroller": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "microservices": {
+        "precision": 0.5,
+        "recall": 0.14285714285714285,
+        "f1": 0.2222222222222222
+      },
+      "microsoft-edge": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "migration": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "minecraft": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "minikube": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "mobile": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "mobile-application": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "mobile-safari": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "mocha": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "mocking": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "mockito": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "mod-rewrite": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "modal-dialog": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "model": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "model-view-controller": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "module": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "modulus": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "momentjs": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "mongodb": {
+        "precision": 0.7894736842105263,
+        "recall": 0.625,
+        "f1": 0.6976744186046512
+      },
+      "mongoose": {
+        "precision": 1.0,
+        "recall": 0.13333333333333333,
+        "f1": 0.23529411764705882
+      },
+      "mouseevent": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "move-semantics": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ms-access": {
+        "precision": 0.5,
+        "recall": 0.06666666666666667,
+        "f1": 0.11764705882352941
+      },
+      "ms-word": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "msbuild": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "multidimensional-array": {
+        "precision": 0.14285714285714285,
+        "recall": 0.034482758620689655,
+        "f1": 0.05555555555555555
+      },
+      "multiple-columns": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "multiprocessing": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "multithreading": {
+        "precision": 0.9230769230769231,
+        "recall": 0.22641509433962265,
+        "f1": 0.36363636363636365
+      },
+      "mvvm": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "mysql": {
+        "precision": 0.7678571428571429,
+        "recall": 0.31009615384615385,
+        "f1": 0.4417808219178082
+      },
+      "mysql-workbench": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "mysqli": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "namespaces": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "nan": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "native": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "nativescript": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "navbar": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "navigation": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "navigation-drawer": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "navigationbar": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "neo4j": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "nested": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "netbeans": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "network-programming": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "networking": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "neural-network": {
+        "precision": 0.25,
+        "recall": 0.04,
+        "f1": 0.06896551724137931
+      },
+      "new-operator": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "newline": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "nginx": {
+        "precision": 0.8571428571428571,
+        "recall": 0.2857142857142857,
+        "f1": 0.42857142857142855
+      },
+      "ngrx": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "nlp": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "nltk": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "node-modules": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "node-sass": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "node.js": {
+        "precision": 0.819672131147541,
+        "recall": 0.18450184501845018,
+        "f1": 0.30120481927710846
+      },
+      "nodes": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "notepad++": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "notifications": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "npm": {
+        "precision": 0.84,
+        "recall": 0.3620689655172414,
+        "f1": 0.5060240963855421
+      },
+      "npm-install": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "nsarray": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "nsdate": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "nsdateformatter": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "nsdictionary": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "nsstring": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "nuget": {
+        "precision": 0.5555555555555556,
+        "recall": 0.38461538461538464,
+        "f1": 0.45454545454545453
+      },
+      "nuget-package": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "null": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "nullpointerexception": {
+        "precision": 1.0,
+        "recall": 0.037037037037037035,
+        "f1": 0.07142857142857142
+      },
+      "nullreferenceexception": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "numbers": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "numpy": {
+        "precision": 0.84,
+        "recall": 0.30434782608695654,
+        "f1": 0.44680851063829785
+      },
+      "nunit": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "nuxt.js": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "oauth": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "oauth-2.0": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "object": {
+        "precision": 0.23076923076923078,
+        "recall": 0.05357142857142857,
+        "f1": 0.08695652173913043
+      },
+      "objective-c": {
+        "precision": 0.7777777777777778,
+        "recall": 0.1686746987951807,
+        "f1": 0.27722772277227725
+      },
+      "observable": {
+        "precision": 1.0,
+        "recall": 0.125,
+        "f1": 0.2222222222222222
+      },
+      "ocaml": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ocr": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "odata": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "okhttp": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "okhttp3": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "onclick": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "onclicklistener": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "oop": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "opencv": {
+        "precision": 0.9090909090909091,
+        "recall": 0.4878048780487805,
+        "f1": 0.6349206349206349
+      },
+      "opengl": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "openpyxl": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "openssl": {
+        "precision": 1.0,
+        "recall": 0.6666666666666666,
+        "f1": 0.8
+      },
+      "openvpn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "operating-system": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "operator-overloading": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "operators": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "optimization": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "optional": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "oracle": {
+        "precision": 0.7142857142857143,
+        "recall": 0.3225806451612903,
+        "f1": 0.4444444444444444
+      },
+      "oracle11g": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "orm": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "out-of-memory": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "outlook": {
+        "precision": 0.6666666666666666,
+        "recall": 0.2,
+        "f1": 0.3076923076923077
+      },
+      "output": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "overloading": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "overriding": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "package": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "package.json": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "packages": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pagination": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "palindrome": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pandas": {
+        "precision": 0.8958333333333334,
+        "recall": 0.5149700598802395,
+        "f1": 0.6539923954372624
+      },
+      "parallel-processing": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "parameter-passing": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "parameters": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "parquet": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "parse-platform": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "parsing": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pascal": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pass-by-reference": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pass-by-value": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "passwords": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "path": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pattern-matching": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pdf": {
+        "precision": 0.6,
+        "recall": 0.17647058823529413,
+        "f1": 0.2727272727272727
+      },
+      "pdo": {
+        "precision": 1.0,
+        "recall": 0.1,
+        "f1": 0.18181818181818182
+      },
+      "performance": {
+        "precision": 0.16666666666666666,
+        "recall": 0.021739130434782608,
+        "f1": 0.038461538461538464
+      },
+      "perl": {
+        "precision": 0.9523809523809523,
+        "recall": 0.5970149253731343,
+        "f1": 0.7339449541284404
+      },
+      "permissions": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "permutation": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "phoenix-framework": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "php": {
+        "precision": 0.9009433962264151,
+        "recall": 0.553088803088803,
+        "f1": 0.6854066985645934
+      },
+      "php-7": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "phpmyadmin": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "phpstorm": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "phpunit": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ping": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pip": {
+        "precision": 0.5,
+        "recall": 0.28125,
+        "f1": 0.36
+      },
+      "pipe": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pipenv": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pivot": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "playframework": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "plot": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "plotly": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "plsql": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "plugins": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pm2": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "png": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pointers": {
+        "precision": 0.4827586206896552,
+        "recall": 0.1728395061728395,
+        "f1": 0.2545454545454545
+      },
+      "polymorphism": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "port": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "posix": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "post": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "postgresql": {
+        "precision": 0.9411764705882353,
+        "recall": 0.32653061224489793,
+        "f1": 0.48484848484848486
+      },
+      "postman": {
+        "precision": 1.0,
+        "recall": 0.6666666666666666,
+        "f1": 0.8
+      },
+      "powerbi": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "powershell": {
+        "precision": 0.8888888888888888,
+        "recall": 0.5714285714285714,
+        "f1": 0.6956521739130435
+      },
+      "precision": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "preg-match": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "preg-match-all": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "preg-replace": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "prepared-statement": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "primefaces": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "primes": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "printf": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "printing": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "private": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "probability": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "process": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "processing": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "product": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "programming-languages": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "progress-bar": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "progressive-web-apps": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "proguard": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "project": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "prolog": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "prometheus": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "promise": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "prompt": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "properties": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "protocol-buffers": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "protocols": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "protractor": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "provisioning-profile": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "proxy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pseudocode": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "puppeteer": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "push-notification": {
+        "precision": 0.5,
+        "recall": 0.07142857142857142,
+        "f1": 0.125
+      },
+      "pycharm": {
+        "precision": 0.75,
+        "recall": 0.625,
+        "f1": 0.6818181818181818
+      },
+      "pygame": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pylint": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pyspark": {
+        "precision": 0.6363636363636364,
+        "recall": 0.2413793103448276,
+        "f1": 0.35
+      },
+      "pyspark-sql": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pytest": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "python": {
+        "precision": 0.8963317384370016,
+        "recall": 0.6389994314951677,
+        "f1": 0.7461002323265848
+      },
+      "python-2.7": {
+        "precision": 0.4,
+        "recall": 0.019230769230769232,
+        "f1": 0.03669724770642202
+      },
+      "python-2.x": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "python-3.5": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "python-3.6": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "python-3.7": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "python-3.x": {
+        "precision": 0.32894736842105265,
+        "recall": 0.07183908045977011,
+        "f1": 0.1179245283018868
+      },
+      "python-asyncio": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "python-imaging-library": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "python-requests": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "python-unittest": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "pytorch": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "qml": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "qt": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "queue": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "quicksort": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "r": {
+        "precision": 0.8976377952755905,
+        "recall": 0.4028268551236749,
+        "f1": 0.5560975609756098
+      },
+      "r-markdown": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rabbitmq": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "radio-button": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rails-activestorage": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "random": {
+        "precision": 0.6,
+        "recall": 0.16216216216216217,
+        "f1": 0.2553191489361702
+      },
+      "random-forest": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "range": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "raspberry-pi": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "raspberry-pi3": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "raspbian": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "razor": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rdd": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "react-apollo": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "react-hooks": {
+        "precision": 0.3333333333333333,
+        "recall": 0.1,
+        "f1": 0.15384615384615385
+      },
+      "react-jsx": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "react-native": {
+        "precision": 0.9841269841269841,
+        "recall": 0.4189189189189189,
+        "f1": 0.5876777251184834
+      },
+      "react-native-android": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "react-native-ios": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "react-navigation": {
+        "precision": 1.0,
+        "recall": 0.125,
+        "f1": 0.2222222222222222
+      },
+      "react-redux": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "react-router": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "react-router-v4": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "react-testing-library": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "reactive-programming": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "reactjs": {
+        "precision": 0.8545454545454545,
+        "recall": 0.31756756756756754,
+        "f1": 0.4630541871921182
+      },
+      "realm": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1": 0.6666666666666666
+      },
+      "recaptcha": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "recurrent-neural-network": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "recursion": {
+        "precision": 0.6666666666666666,
+        "recall": 0.4,
+        "f1": 0.5
+      },
+      "redirect": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "redis": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "reduce": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "redux": {
+        "precision": 0.9375,
+        "recall": 0.3409090909090909,
+        "f1": 0.5
+      },
+      "redux-form": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "redux-saga": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "reference": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "reflection": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "regex": {
+        "precision": 0.9057591623036649,
+        "recall": 0.6070175438596491,
+        "f1": 0.726890756302521
+      },
+      "regex-group": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "regex-lookarounds": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "regression": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "relational-database": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "release": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "remote-debugging": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rename": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "replace": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "reporting-services": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "request": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "requirejs": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "reshape": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "resharper": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "response": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "responsive": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "responsive-design": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rest": {
+        "precision": 0.7142857142857143,
+        "recall": 0.14285714285714285,
+        "f1": 0.23809523809523808
+      },
+      "retrofit": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "retrofit2": {
+        "precision": 0.75,
+        "recall": 0.16666666666666666,
+        "f1": 0.2727272727272727
+      },
+      "return": {
+        "precision": 0.2,
+        "recall": 0.2857142857142857,
+        "f1": 0.23529411764705882
+      },
+      "return-value": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "reverse": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "reverse-engineering": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "roslyn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rotation": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rounding": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "router": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "routes": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "routing": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "row": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rows": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rsa": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rspec": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rstudio": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ruby": {
+        "precision": 0.7596153846153846,
+        "recall": 0.6076923076923076,
+        "f1": 0.6752136752136753
+      },
+      "ruby-on-rails": {
+        "precision": 0.6610169491525424,
+        "recall": 0.5131578947368421,
+        "f1": 0.5777777777777777
+      },
+      "ruby-on-rails-4": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ruby-on-rails-5": {
+        "precision": 0.6666666666666666,
+        "recall": 0.16666666666666666,
+        "f1": 0.26666666666666666
+      },
+      "rubygems": {
+        "precision": 0.5,
+        "recall": 0.16666666666666666,
+        "f1": 0.25
+      },
+      "runtime-error": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rust": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rx-android": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rx-java": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rx-java2": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rx-swift": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "rxjs": {
+        "precision": 0.6,
+        "recall": 0.2222222222222222,
+        "f1": 0.32432432432432434
+      },
+      "rxjs5": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "safari": {
+        "precision": 0.6666666666666666,
+        "recall": 0.5,
+        "f1": 0.5714285714285714
+      },
+      "sap": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sapui5": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sas": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sass": {
+        "precision": 1.0,
+        "recall": 0.15,
+        "f1": 0.2608695652173913
+      },
+      "save": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sbt": {
+        "precision": 1.0,
+        "recall": 0.16666666666666666,
+        "f1": 0.2857142857142857
+      },
+      "scala": {
+        "precision": 0.9032258064516129,
+        "recall": 0.4307692307692308,
+        "f1": 0.5833333333333334
+      },
+      "scalatest": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "scanf": {
+        "precision": 1.0,
+        "recall": 0.1,
+        "f1": 0.18181818181818182
+      },
+      "scenekit": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "scheduled-tasks": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "schema": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "scikit-learn": {
+        "precision": 0.75,
+        "recall": 0.0967741935483871,
+        "f1": 0.17142857142857143
+      },
+      "scipy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "scope": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "scrapy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "scripting": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "scroll": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "scrollview": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sdk": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "seaborn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "search": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "security": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sed": {
+        "precision": 0.6153846153846154,
+        "recall": 0.3333333333333333,
+        "f1": 0.43243243243243246
+      },
+      "segmentation-fault": {
+        "precision": 0.5,
+        "recall": 0.11764705882352941,
+        "f1": 0.19047619047619047
+      },
+      "select": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "selenium": {
+        "precision": 0.8125,
+        "recall": 0.4126984126984127,
+        "f1": 0.5473684210526316
+      },
+      "selenium-chromedriver": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "selenium-webdriver": {
+        "precision": 0.5454545454545454,
+        "recall": 0.18181818181818182,
+        "f1": 0.2727272727272727
+      },
+      "seo": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sequelize.js": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sequence": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "serialization": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "server": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "serverless-framework": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "service": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "service-worker": {
+        "precision": 1.0,
+        "recall": 0.4444444444444444,
+        "f1": 0.6153846153846154
+      },
+      "servlets": {
+        "precision": 0.4,
+        "recall": 0.18181818181818182,
+        "f1": 0.25
+      },
+      "session": {
+        "precision": 1.0,
+        "recall": 0.08333333333333333,
+        "f1": 0.15384615384615385
+      },
+      "set": {
+        "precision": 0.3333333333333333,
+        "recall": 0.14285714285714285,
+        "f1": 0.2
+      },
+      "settings": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "setuptools": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sh": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sha1": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "shared-ptr": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sharedpreferences": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "shell": {
+        "precision": 0.5172413793103449,
+        "recall": 0.2542372881355932,
+        "f1": 0.3409090909090909
+      },
+      "shiny": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "shopify": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "simpledateformat": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "single-page-application": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "singleton": {
+        "precision": 1.0,
+        "recall": 0.3333333333333333,
+        "f1": 0.5
+      },
+      "sinon": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "size": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sizeof": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "slack": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "slack-api": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "slice": {
+        "precision": 0.6,
+        "recall": 0.25,
+        "f1": 0.35294117647058826
+      },
+      "slider": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "slim": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "smart-pointers": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sms": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "smtp": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "soap": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "soapui": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "socket.io": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sockets": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sonarqube": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sorting": {
+        "precision": 0.3953488372093023,
+        "recall": 0.23943661971830985,
+        "f1": 0.2982456140350877
+      },
+      "spacy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "spark-dataframe": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "spark-streaming": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "speech-recognition": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "spinner": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "split": {
+        "precision": 0.38461538461538464,
+        "recall": 0.21739130434782608,
+        "f1": 0.2777777777777778
+      },
+      "spring": {
+        "precision": 0.6739130434782609,
+        "recall": 0.4025974025974026,
+        "f1": 0.5040650406504065
+      },
+      "spring-boot": {
+        "precision": 0.78125,
+        "recall": 0.373134328358209,
+        "f1": 0.5050505050505051
+      },
+      "spring-cloud": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "spring-data": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "spring-data-jpa": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "spring-data-rest": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "spring-mvc": {
+        "precision": 0.5,
+        "recall": 0.05555555555555555,
+        "f1": 0.1
+      },
+      "spring-security": {
+        "precision": 1.0,
+        "recall": 0.14285714285714285,
+        "f1": 0.25
+      },
+      "spring-security-oauth2": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "spring-webflux": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sprite-kit": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "spyder": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sql": {
+        "precision": 0.6401515151515151,
+        "recall": 0.3957845433255269,
+        "f1": 0.48914616497829233
+      },
+      "sql-insert": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sql-server": {
+        "precision": 0.7142857142857143,
+        "recall": 0.36900369003690037,
+        "f1": 0.48661800486618007
+      },
+      "sql-server-2008": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sql-server-2008-r2": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sql-server-2012": {
+        "precision": 0.5,
+        "recall": 0.05555555555555555,
+        "f1": 0.1
+      },
+      "sql-server-2014": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sql-server-2016": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sql-update": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sqlalchemy": {
+        "precision": 1.0,
+        "recall": 0.2857142857142857,
+        "f1": 0.4444444444444444
+      },
+      "sqlite": {
+        "precision": 0.7894736842105263,
+        "recall": 0.22058823529411764,
+        "f1": 0.3448275862068966
+      },
+      "ssh": {
+        "precision": 0.7777777777777778,
+        "recall": 0.35,
+        "f1": 0.4827586206896552
+      },
+      "ssis": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ssl": {
+        "precision": 0.7272727272727273,
+        "recall": 0.3076923076923077,
+        "f1": 0.43243243243243246
+      },
+      "ssl-certificate": {
+        "precision": 1.0,
+        "recall": 0.125,
+        "f1": 0.2222222222222222
+      },
+      "ssms": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "stack": {
+        "precision": 1.0,
+        "recall": 0.1111111111111111,
+        "f1": 0.2
+      },
+      "stack-overflow": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "standards": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "stata": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "state": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "static": {
+        "precision": 0.2857142857142857,
+        "recall": 0.2,
+        "f1": 0.23529411764705882
+      },
+      "static-methods": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "statistics": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "std": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "stdvector": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "stl": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "stored-procedures": {
+        "precision": 0.42857142857142855,
+        "recall": 0.25,
+        "f1": 0.3157894736842105
+      },
+      "storyboard": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "stream": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "string": {
+        "precision": 0.40476190476190477,
+        "recall": 0.07423580786026202,
+        "f1": 0.12546125461254612
+      },
+      "string-comparison": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "string-formatting": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "stringbuilder": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "stripe-payments": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "struct": {
+        "precision": 0.3684210526315789,
+        "recall": 0.2692307692307692,
+        "f1": 0.3111111111111111
+      },
+      "structure": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "styled-components": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "styles": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "subclass": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sublimetext3": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "subprocess": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "subquery": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "subset": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "substring": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "sum": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "svg": {
+        "precision": 0.6666666666666666,
+        "recall": 0.35294117647058826,
+        "f1": 0.46153846153846156
+      },
+      "svn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "swagger": {
+        "precision": 0.6,
+        "recall": 0.42857142857142855,
+        "f1": 0.5
+      },
+      "swagger-2.0": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "swagger-ui": {
+        "precision": 1.0,
+        "recall": 0.4,
+        "f1": 0.5714285714285714
+      },
+      "swift": {
+        "precision": 0.8339622641509434,
+        "recall": 0.5443349753694581,
+        "f1": 0.6587183308494784
+      },
+      "swift2": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "swift3": {
+        "precision": 0.4230769230769231,
+        "recall": 0.20754716981132076,
+        "f1": 0.27848101265822783
+      },
+      "swift4": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "swiftui": {
+        "precision": 1.0,
+        "recall": 0.6071428571428571,
+        "f1": 0.7555555555555555
+      },
+      "swing": {
+        "precision": 0.75,
+        "recall": 0.0967741935483871,
+        "f1": 0.17142857142857143
+      },
+      "switch-statement": {
+        "precision": 0.4444444444444444,
+        "recall": 0.21052631578947367,
+        "f1": 0.2857142857142857
+      },
+      "symfony": {
+        "precision": 1.0,
+        "recall": 0.27586206896551724,
+        "f1": 0.43243243243243246
+      },
+      "symfony4": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "synchronization": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "syntax": {
+        "precision": 0.125,
+        "recall": 0.045454545454545456,
+        "f1": 0.06666666666666667
+      },
+      "syntax-error": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "systemd": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "tableview": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "tabular": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "tags": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "tar": {
+        "precision": 1.0,
+        "recall": 0.3333333333333333,
+        "f1": 0.5
+      },
+      "task": {
+        "precision": 1.0,
+        "recall": 0.5,
+        "f1": 0.6666666666666666
+      },
+      "task-parallel-library": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "tcp": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "telegram": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "telegram-bot": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "templates": {
+        "precision": 0.8571428571428571,
+        "recall": 0.20689655172413793,
+        "f1": 0.3333333333333333
+      },
+      "tensorboard": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "tensorflow": {
+        "precision": 0.9,
+        "recall": 0.5070422535211268,
+        "f1": 0.6486486486486487
+      },
+      "terminal": {
+        "precision": 0.6666666666666666,
+        "recall": 0.2222222222222222,
+        "f1": 0.3333333333333333
+      },
+      "terraform": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "testing": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "testng": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "text": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "text-files": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "textbox": {
+        "precision": 0.2,
+        "recall": 0.1111111111111111,
+        "f1": 0.14285714285714285
+      },
+      "textfield": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "textview": {
+        "precision": 0.25,
+        "recall": 0.07142857142857142,
+        "f1": 0.1111111111111111
+      },
+      "tfs": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "themes": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "this": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "three.js": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "tidyverse": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "time": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "time-complexity": {
+        "precision": 0.7142857142857143,
+        "recall": 0.45454545454545453,
+        "f1": 0.5555555555555556
+      },
+      "time-series": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "timer": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "timestamp": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "timezone": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "tkinter": {
+        "precision": 0.9444444444444444,
+        "recall": 0.4473684210526316,
+        "f1": 0.6071428571428571
+      },
+      "tomcat": {
+        "precision": 0.6,
+        "recall": 0.5,
+        "f1": 0.5454545454545454
+      },
+      "tostring": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "transpose": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "travis-ci": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "tree": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "triggers": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "try-catch": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "tsconfig": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "tslint": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "tsql": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "tuples": {
+        "precision": 0.8,
+        "recall": 0.2,
+        "f1": 0.32
+      },
+      "turtle-graphics": {
+        "precision": 1.0,
+        "recall": 0.125,
+        "f1": 0.2222222222222222
+      },
+      "tweepy": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "twig": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "twitter": {
+        "precision": 1.0,
+        "recall": 0.2,
+        "f1": 0.3333333333333333
+      },
+      "twitter-bootstrap": {
+        "precision": 0.47058823529411764,
+        "recall": 0.14545454545454545,
+        "f1": 0.2222222222222222
+      },
+      "twitter-bootstrap-3": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "twitter-bootstrap-4": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "type-conversion": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "type-hinting": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "typeerror": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "types": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "typescript": {
+        "precision": 0.93,
+        "recall": 0.40789473684210525,
+        "f1": 0.5670731707317073
+      },
+      "typescript-typings": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "typescript2.0": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ubuntu": {
+        "precision": 0.6521739130434783,
+        "recall": 0.22388059701492538,
+        "f1": 0.3333333333333333
+      },
+      "ubuntu-14.04": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ubuntu-16.04": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "ubuntu-18.04": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uibutton": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uicollectionview": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uicollectionviewcell": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uiimage": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uiimageview": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uikit": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uilabel": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uinavigationbar": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uinavigationcontroller": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uipickerview": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uiscrollview": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uisearchbar": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uitableview": {
+        "precision": 0.6,
+        "recall": 0.13636363636363635,
+        "f1": 0.2222222222222222
+      },
+      "uitextfield": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uiview": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uiviewcontroller": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uiwebview": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uml": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "undefined": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "undefined-behavior": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "underscore.js": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "unicode": {
+        "precision": 1.0,
+        "recall": 0.09090909090909091,
+        "f1": 0.16666666666666666
+      },
+      "unions": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "unique": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "unique-ptr": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "unit-testing": {
+        "precision": 0.5625,
+        "recall": 0.23076923076923078,
+        "f1": 0.32727272727272727
+      },
+      "unity3d": {
+        "precision": 1.0,
+        "recall": 0.2631578947368421,
+        "f1": 0.4166666666666667
+      },
+      "unity5": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "unix": {
+        "precision": 0.6,
+        "recall": 0.125,
+        "f1": 0.20689655172413793
+      },
+      "upgrade": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "upload": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "url": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "url-redirection": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "user-input": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "user-interface": {
+        "precision": 0.5,
+        "recall": 0.04,
+        "f1": 0.07407407407407407
+      },
+      "utf-8": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uuid": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uwp": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "uwsgi": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "vagrant": {
+        "precision": 1.0,
+        "recall": 0.42857142857142855,
+        "f1": 0.6
+      },
+      "validation": {
+        "precision": 0.2222222222222222,
+        "recall": 0.07407407407407407,
+        "f1": 0.1111111111111111
+      },
+      "var": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "variable-assignment": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "variables": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "vb.net": {
+        "precision": 0.7619047619047619,
+        "recall": 0.25396825396825395,
+        "f1": 0.38095238095238093
+      },
+      "vb6": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "vba": {
+        "precision": 0.8875,
+        "recall": 0.5725806451612904,
+        "f1": 0.696078431372549
+      },
+      "vbscript": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "vector": {
+        "precision": 0.2,
+        "recall": 0.11538461538461539,
+        "f1": 0.14634146341463414
+      },
+      "verilog": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "version": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "version-control": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "video": {
+        "precision": 0.5,
+        "recall": 0.05,
+        "f1": 0.09090909090909091
+      },
+      "view": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "viewmodel": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "vim": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "virtual": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "virtual-machine": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "virtualbox": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "virtualenv": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "visual-c++": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "visual-studio": {
+        "precision": 0.4375,
+        "recall": 0.13861386138613863,
+        "f1": 0.21052631578947367
+      },
+      "visual-studio-2010": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "visual-studio-2015": {
+        "precision": 0.2222222222222222,
+        "recall": 0.09523809523809523,
+        "f1": 0.13333333333333333
+      },
+      "visual-studio-2017": {
+        "precision": 0.5,
+        "recall": 0.29411764705882354,
+        "f1": 0.37037037037037035
+      },
+      "visual-studio-2019": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "visual-studio-code": {
+        "precision": 0.9148936170212766,
+        "recall": 0.6323529411764706,
+        "f1": 0.7478260869565218
+      },
+      "vpn": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "vscode-settings": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "vue-cli": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "vue-component": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "vue-router": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "vue.js": {
+        "precision": 1.0,
+        "recall": 0.20212765957446807,
+        "f1": 0.336283185840708
+      },
+      "vuejs2": {
+        "precision": 0.5,
+        "recall": 0.02631578947368421,
+        "f1": 0.05
+      },
+      "vuetify.js": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "vuex": {
+        "precision": 1.0,
+        "recall": 0.3333333333333333,
+        "f1": 0.5
+      },
+      "wamp": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "warnings": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "wcf": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "web": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "web-applications": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "web-config": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "web-crawler": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "web-deployment": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "web-hosting": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "web-scraping": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "web-services": {
+        "precision": 0.75,
+        "recall": 0.25,
+        "f1": 0.375
+      },
+      "webdriver": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "webdriverwait": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "webforms": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "webkit": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "webpack": {
+        "precision": 0.9166666666666666,
+        "recall": 0.46808510638297873,
+        "f1": 0.6197183098591549
+      },
+      "webpack-2": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "webpack-dev-server": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "webpacker": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "webpage": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "webrtc": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "websocket": {
+        "precision": 0.6,
+        "recall": 0.3333333333333333,
+        "f1": 0.42857142857142855
+      },
+      "webstorm": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "webview": {
+        "precision": 0.8,
+        "recall": 0.2857142857142857,
+        "f1": 0.42105263157894735
+      },
+      "whatsapp": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "while-loop": {
+        "precision": 0.25,
+        "recall": 0.09090909090909091,
+        "f1": 0.13333333333333333
+      },
+      "whitespace": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "widget": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "wifi": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "win-universal-app": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "winapi": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "window": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "windows": {
+        "precision": 0.44,
+        "recall": 0.09482758620689655,
+        "f1": 0.15602836879432624
+      },
+      "windows-10": {
+        "precision": 0.42857142857142855,
+        "recall": 0.21428571428571427,
+        "f1": 0.2857142857142857
+      },
+      "windows-subsystem-for-linux": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "winforms": {
+        "precision": 0.16666666666666666,
+        "recall": 0.017241379310344827,
+        "f1": 0.03125
+      },
+      "wkwebview": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "woocommerce": {
+        "precision": 0.5,
+        "recall": 0.05,
+        "f1": 0.09090909090909091
+      },
+      "word": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "word2vec": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "wordpress": {
+        "precision": 0.813953488372093,
+        "recall": 0.3645833333333333,
+        "f1": 0.5035971223021583
+      },
+      "wordpress-theming": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "wpf": {
+        "precision": 0.8947368421052632,
+        "recall": 0.3148148148148148,
+        "f1": 0.4657534246575342
+      },
+      "x86": {
+        "precision": 1.0,
+        "recall": 0.058823529411764705,
+        "f1": 0.1111111111111111
+      },
+      "x86-16": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "xamarin": {
+        "precision": 0.6,
+        "recall": 0.3333333333333333,
+        "f1": 0.42857142857142855
+      },
+      "xamarin.android": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "xamarin.forms": {
+        "precision": 0.6,
+        "recall": 0.17647058823529413,
+        "f1": 0.2727272727272727
+      },
+      "xamarin.ios": {
+        "precision": 0.5,
+        "recall": 0.2,
+        "f1": 0.2857142857142857
+      },
+      "xaml": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "xampp": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "xcode": {
+        "precision": 0.5510204081632653,
+        "recall": 0.23275862068965517,
+        "f1": 0.32727272727272727
+      },
+      "xcode10": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "xcode11": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "xcode7": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "xcode8": {
+        "precision": 0.5,
+        "recall": 0.14285714285714285,
+        "f1": 0.2222222222222222
+      },
+      "xcode9": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "xcode9-beta": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "xctest": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "xgboost": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "xml": {
+        "precision": 0.8,
+        "recall": 0.25396825396825395,
+        "f1": 0.3855421686746988
+      },
+      "xml-parsing": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "xmlhttprequest": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "xpath": {
+        "precision": 1.0,
+        "recall": 0.375,
+        "f1": 0.5454545454545454
+      },
+      "xslt": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "xss": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "xunit": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "yaml": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "yarnpkg": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "yii2": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "youtube": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "youtube-api": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "zip": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      },
+      "zsh": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1": 0.0
+      }
+    },
+    "_top_f1_png": "tags_top_f1.png"
+  }
+}
