@@ -1,5 +1,10 @@
 # StackOverflow Tag & Difficulty Predictor
 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)](https://streamlit.io/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717.svg)](https://github.com/hari666krishna/StackOverflow_Project)
+
 This project predicts StackOverflow question tags and a difficulty label.
 
 Quick start (local, using the provided venv):

@@ -1,2 +1,16 @@
 *.csv
 .ipynb_checkpoints
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
