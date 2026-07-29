@@ -134,11 +134,9 @@ The key take away from the above plot is that a tag is appearing 5 time in max.
 _`This is the wordcloud generated from the tags and it's count.`_
 ## Author 
 Sanneboina HariKrishna
+
 B.Tech – Computer Science & Engineering (AI & ML)
+
 Machine Learning Project – StackOverflow-Tag-Prediction
 
-<p align="center">
-  <img src="https://github.com/Ankit152/StackOverflow-Tag-Prediction/blob/main/img/wordcloud.jpg">
-</p>
 
-The more frequent tags appears to be bigger in the wordcloud and vice versa.
